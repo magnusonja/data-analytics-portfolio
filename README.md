@@ -17,7 +17,7 @@ Analyzed retail return behavior to identify which product categories, regions, a
 Technology products generated the greatest financial impact due to higher unit costs.
 
 🔗 **View the Interactive Dashboard:**  
-https://public.tableau.com/views/SuperstoreReturnsAnalysisPresentation/SuperstoreReturnsAnalysisDashboard
+[Open Tableau Dashboard](https://public.tableau.com/views/SuperstoreReturnsAnalysisPresentation/SuperstoreReturnsAnalysisDashboard)
 
 📁 **Project Details:**  
 [Retail Return Rate Analysis](./retail-return-analysis)
