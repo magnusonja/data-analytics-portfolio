@@ -1,4 +1,5 @@
 # Data Analytics Portfolio
+
 ## About Me
 
 Business-focused data analyst with a business degree and 2 years of combined academic and applied analytical experience. Designed and delivered Power BI solutions with first-submission approval, transforming complex business requirements into clear, actionable insights.
