@@ -27,4 +27,4 @@ Technology products generated the greatest financial impact due to higher unit c
 - Tableau
 - Business Analysis
 - Data Visualization
-- Analytical Problem Solving
+- Data-Driven Problem Solving
