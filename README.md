@@ -1,30 +1,58 @@
 # Data Analytics Portfolio
 
 ## About Me
+Data analyst with a business background and hands-on experience transforming complex datasets into actionable insights. I focus on identifying performance drivers, challenging assumptions, and delivering analysis that supports real business decisions.
 
-Business-focused data analyst with a business degree and 1 year of combined academic and applied analytical experience. Designed and delivered Power BI solutions with first-submission approval, transforming complex business requirements into clear, actionable insights.
-
-Welcome to my data analytics project portfolio. This repository showcases projects where I analyze business problems, explore datasets, and translate findings into actionable insights through data visualization and analysis.
-
-My work focuses on identifying patterns in data and supporting data-driven decision making using tools such as Tableau, SQL, Excel, and Power BI.
+---
 
 ## Featured Project
 
-### Retail Return Rate Analysis (Tableau)
+### Zomato Restaurant Performance Analysis (Tableau)
+End-to-end analysis of restaurant marketplace data to identify key drivers of revenue and order volume.
 
-Analyzed retail return behavior to identify which product categories, regions, and time periods drive unusually high return rates. The analysis revealed that multiple categories significantly exceeded industry benchmarks, with the West region and Q3 operating periods contributing the highest return concentration.
+Key insights:
+- Revenue is highly concentrated among a small group of restaurants  
+- Low-cost, high-volume models dominate market performance  
+- Ratings are not strong predictors of revenue  
+- Cuisine type plays a significant role in revenue distribution  
 
-Technology products generated the greatest financial impact due to higher unit costs.
+🔗 View Interactive Dashboard  
+[https://public.tableau.com/views/ZomatoRestaurantAnalysis_17749482241700/Top10CuisinesbyRevenue?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
 
-🔗 **View the Interactive Dashboard:**  
-[Open Tableau Dashboard](https://public.tableau.com/views/SuperstoreReturnsAnalysisPresentation/SuperstoreReturnsAnalysisDashboard)
+📁 Project Details  
+Zomato Restaurant Performance Analysis
 
-📁 **Project Details:**  
-[Retail Return Rate Analysis](./retail-return-analysis)
+---
 
-## Tools & Skills Demonstrated
+## Additional Projects
 
-- Tableau
-- Business Analysis
-- Data Visualization
-- Data-Driven Problem Solving
+### Shopify App Marketplace Analysis (Power BI)
+Analyzed Shopify app marketplace data to identify factors influencing app success, including user engagement, ratings, and developer responsiveness. The analysis explored relationships between review behavior, developer interaction, and overall app performance.
+
+---
+
+### Airbnb Market Analysis (Google Sheets)
+Exploratory analysis of **New York City Airbnb data** to identify high-performing neighborhoods and optimal property configurations for short-term rental investment.
+
+Key focus areas:
+- Neighborhood demand based on rental activity (reviews as a proxy for bookings)
+- Property size performance (bedroom distribution and demand trends)
+- Revenue estimation using calendar-based booking data
+
+Findings showed that demand is concentrated in specific NYC neighborhoods, with studios and 1-bedroom units representing the strongest-performing property types across the market.
+
+---
+
+## Tools & Skills
+- Tableau  
+- Power BI  
+- Google Sheets / Excel  
+- SQL (Foundational)  
+- Data Visualization  
+- Business Analysis  
+- KPI & Revenue Analysis  
+
+---
+
+## Approach
+I approach analytics with a focus on business impact—asking the right questions, validating assumptions with data, and delivering insights that are clear, actionable, and aligned with business goals.
