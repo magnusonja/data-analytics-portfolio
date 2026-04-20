@@ -21,7 +21,7 @@ A deep-dive analysis into restaurant performance patterns across India using Tab
 Analysis of NYC Airbnb listings to identify high-demand neighborhoods and optimal property sizes for short-term rental investment decisions.
 
 🔗 View Project:
-[airbnb-analysis](https://github.com/magnusonja/data-analytics-portfolio/blob/main/airbnb-analysis/README.md)
+[airbnb-market-analysis](https://github.com/magnusonja/data-analytics-portfolio/blob/main/airbnb-market-analysis/README.md)
 
 ---
 
