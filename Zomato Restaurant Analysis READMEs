@@ -1,85 +1,68 @@
-# Zomato Restaurant Performance Analysis
+Zomato Restaurant Performance Analysis
+Overview
 
-## Overview
 This project analyzes Zomato restaurant marketplace data to identify the key drivers of revenue and order volume across restaurants.
 
 The goal is to understand what differentiates high-performing restaurants from lower-performing ones and translate those insights into actionable business recommendations.
 
 The analysis was conducted using Tableau and focuses on revenue concentration, pricing behavior, cuisine trends, customer engagement, and geographic patterns.
 
----
-
-## Tools Used
-- Tableau (data analysis & visualization)
-
----
-
-## Data Preparation
-- Joined datasets using: `orders.r_id = restaurant.id`
-- Aggregated order-level data into:
-  - Total Revenue (`sales_amount`)
-  - Total Orders (`sales_qty`)
-- Cleaned and standardized categorical fields:
-  - Cuisine types
-  - City/location fields
-- Grouped low-frequency categories into "Other" for clearer visualization
-
----
-
-## Analysis Questions
+Tools Used
+Tableau (data analysis & visualization)
+Data Preparation
+Joined datasets using: orders.r_id = restaurant.id
+Aggregated order-level data into:
+Total Revenue (sales_amount)
+Total Orders (sales_qty)
+Cleaned and standardized categorical fields:
+Cuisine types
+City/location fields
+Grouped low-frequency categories into "Other" for clearer visualization
+Analysis Questions
 
 The analysis was structured around five core business questions:
 
-1. Which restaurants generate the most revenue?
-2. What differentiates high-performing restaurants from lower-performing ones?
-3. Do restaurant costs impact order volume and revenue?
-4. What is the relationship between cuisine type and performance?
-5. What impact does location (city) have on performance?
+Which restaurants generate the most revenue?
+What differentiates high-performing restaurants from lower-performing ones?
+Do restaurant costs impact order volume and revenue?
+What is the relationship between cuisine type and performance?
+What impact does location (city) have on performance?
+Key Findings
+Revenue Concentration
 
----
+Revenue is heavily concentrated among a small number of restaurants.
 
-## Key Findings
+Ratings vs Performance
 
-### Revenue Concentration
-Revenue is heavily concentrated among a small number of restaurants. A few top performers generate a disproportionate share of total market revenue.
+Ratings show only a weak relationship with revenue.
 
-### Ratings vs Performance
-Ratings show only a weak relationship with revenue. Many lower-performing restaurants maintain similar ratings to high performers.
+Pricing & Cost Structure
 
-### Pricing & Cost Structure
-Low-cost, high-volume models dominate overall market performance, disproving the mid-range dominance hypothesis.
+Low-cost, high-volume models dominate overall performance.
 
-### Cuisine Performance
-Cuisine type strongly influences performance. Indian cuisine categories dominate overall, while global chains like Domino’s and Pizza Hut rank among top performers.
+Cuisine Performance
 
-### Geographic Impact
-Location-based insights were limited due to inconsistent geographic granularity in the dataset.
+Cuisine type strongly impacts revenue distribution, with certain categories dominating overall market share.
 
----
+Geographic Impact
 
-## Business Insights
-- Performance is driven primarily by volume, not pricing power  
-- Ratings are secondary indicators, not primary drivers  
-- Cuisine selection significantly impacts revenue distribution  
-- Market share is highly concentrated among top performers  
+Location-based insights were limited due to inconsistent dataset granularity.
 
----
+Business Insights
+Performance is driven primarily by volume, not pricing power
+Ratings are secondary indicators
+Cuisine selection is a major driver of revenue
+Market performance is highly concentrated
+Recommendations
+Scale low-cost, high-volume models
+Replicate strategies of top performers
+Invest in high-performing cuisine categories
+Use engagement metrics as secondary signals
+Limitations
+No marketing or promotion data
+Limited competitive context
+Geographic inconsistency
+Revenue derived only from transaction data
+Outcome
 
-## Recommendations
-- Scale low-cost, high-volume restaurant models  
-- Replicate operational strategies from top performers  
-- Invest in high-performing cuisine categories  
-- Use engagement metrics as supporting signals only  
-
----
-
-## Limitations
-- No promotion/marketing data available  
-- Limited competitive context  
-- Geographic inconsistency reduces location insight depth  
-- Revenue based only on observed transactions  
-
----
-
-## Outcome
-This project demonstrates the ability to work with imperfect datasets, extract meaningful insights, and translate analysis into structured business recommendations using Tableau.
+This project demonstrates structured analytical thinking using Tableau on imperfect real-world data.
