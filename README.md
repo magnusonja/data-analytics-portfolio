@@ -17,7 +17,7 @@ Key insights:
 - Cuisine type plays a significant role in revenue distribution  
 
 🔗 **View Interactive Dashboard:**  
-[https://public.tableau.com/views/ZomatoRestaurantAnalysis_17749482241700/Top10CuisinesbyRevenue?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
+[Zomato Tableau Dashboard](https://public.tableau.com/views/ZomatoRestaurantAnalysis_17749482241700/Top10CuisinesbyRevenue?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 📁 Project Details  
 Zomato Restaurant Performance Analysis
