@@ -1,0 +1,100 @@
+# Zomato Restaurant Analysis
+
+## Overview
+This project analyzes Zomato restaurant marketplace data to identify the key drivers of revenue and order volume across restaurants.
+
+The goal is to understand what differentiates high-performing restaurants from lower-performing ones and translate those insights into actionable business recommendations.
+
+The analysis was conducted using Tableau and focuses on revenue concentration, pricing behavior, cuisine trends, customer engagement, and geographic patterns.
+
+---
+
+## Tools Used
+- Tableau (data analysis & visualization)
+
+---
+
+## Data Preparation
+- Joined datasets using: `orders.r_id = restaurant.id`
+- Aggregated order-level data into restaurant-level metrics:
+  - Total Revenue (`sales_amount`)
+  - Total Orders (`sales_qty`)
+- Cleaned and standardized categorical fields:
+  - Cuisine types
+  - City/location fields
+- Grouped low-frequency categories into "Other" for clearer visualization
+
+---
+
+## Analysis Questions
+
+The analysis was structured around five core business questions:
+
+1. Which restaurants generate the most revenue?
+2. What differentiates high-performing restaurants from lower-performing ones?
+3. Do restaurant costs impact order volume and revenue?
+4. What is the relationship between cuisine type and performance?
+5. What impact does location (city) have on performance?
+
+---
+
+## Key Findings
+
+### Revenue Concentration
+Revenue is heavily concentrated among a small number of restaurants. A few top performers generate a disproportionate share of total market revenue, indicating a highly skewed distribution.
+
+---
+
+### Ratings vs Performance
+Customer ratings and engagement show only a weak relationship with revenue. Many lower-performing restaurants maintain similar ratings to high performers, suggesting ratings alone are not a primary success driver.
+
+---
+
+### Pricing & Cost Structure
+The analysis disproved the hypothesis that mid-range restaurants dominate performance. Instead, the data shows a clear dominance of low-cost, high-volume transaction models driving overall revenue.
+
+---
+
+### Cuisine Performance
+Cuisine type is a strong differentiator of performance. Certain cuisines account for a disproportionate share of total revenue and orders. Notably:
+- Indian cuisine categories show strong overall dominance
+- Global chains such as Domino’s and Pizza Hut appear among top performers
+
+---
+
+### Geographic Impact
+Location-based analysis was limited due to inconsistent geographic granularity in the dataset. As a result, city-level conclusions remain inconclusive within this dataset.
+
+---
+
+## Business Insights
+
+- High-performing restaurants succeed primarily through volume, not pricing power
+- Operational efficiency and affordability appear more important than ratings alone
+- Certain cuisine categories consistently outperform others in both revenue and order volume
+- Market performance is highly concentrated, suggesting strong winners in competitive segments
+
+---
+
+## Recommendations
+
+- Focus on scaling low-cost, high-volume restaurant models
+- Identify operational patterns from top-performing restaurants and replicate them
+- Prioritize investment in high-performing cuisine categories
+- Develop localized strategies where data quality allows
+- Use engagement metrics as supporting signals, not primary success indicators
+
+---
+
+## Limitations
+
+- No data on promotions, marketing spend, or discounts
+- Limited visibility into competitor dynamics
+- Geographic data inconsistencies reduce location-based insights
+- Revenue modeled only from available transaction data
+
+---
+
+## Outcome
+
+This project demonstrates the ability to work with imperfect datasets, extract meaningful business insights, and translate findings into structured, decision-oriented recommendations using Tableau.
