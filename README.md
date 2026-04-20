@@ -13,7 +13,7 @@ I work across SQL-based analysis, Tableau dashboards, Power BI reporting, and st
 A deep-dive analysis into restaurant performance patterns across India using Tableau. This project identifies key drivers of revenue concentration, including pricing structure, cuisine distribution, and customer engagement behavior.
 
 🔗 View Project:
-[zomato-analysis](https://github.com/magnusonja/data-analytics-portfolio/blob/main/zomato-analysis/README.md)
+[zomato-restaurant-analysis](https://github.com/magnusonja/data-analytics-portfolio/blob/main/zomato-restaurant-analysis/README.md)
 
 ## Project Progression
 
@@ -37,7 +37,7 @@ Power BI dashboard analysis of Shopify apps to evaluate performance drivers such
 Advanced Tableau-based revenue analysis identifying structural patterns in restaurant performance and market concentration.
 
 🔗 View Project:
-[zomato-analysis](https://github.com/magnusonja/data-analytics-portfolio/blob/main/zomato-analysis/README.md)
+[zomato-restaurant-analysis](https://github.com/magnusonja/data-analytics-portfolio/blob/main/zomato-restaurant-analysis/README.md)
 
 ---
 
