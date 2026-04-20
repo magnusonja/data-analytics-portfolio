@@ -20,7 +20,7 @@ Key insights:
 [Zomato Tableau Dashboard](https://public.tableau.com/views/ZomatoRestaurantAnalysis_17749482241700/Top10CuisinesbyRevenue?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 📁 Project Details  
-Zomato Restaurant Performance Analysis
+[Zomato Restaurant Performance Analysis](https://github.com/magnusonja/data-analytics-portfolio/blob/main/zomato-analysis/README.md)
 
 ---
 
