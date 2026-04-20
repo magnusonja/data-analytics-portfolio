@@ -29,7 +29,7 @@ Analysis of NYC Airbnb listings to identify high-demand neighborhoods and optima
 Power BI dashboard analysis of Shopify apps to evaluate performance drivers such as ratings, engagement, and developer responsiveness.
 
 🔗 View Project:
-[powerbi-shopify](https://github.com/magnusonja/data-analytics-portfolio/blob/main/powerbi-shopify/README.md)
+[shopify-app-analysis](https://github.com/magnusonja/data-analytics-portfolio/blob/main/shopify-app-analysis/README.md)
 
 ---
 
