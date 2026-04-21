@@ -7,13 +7,15 @@ I work across SQL-based analysis, Tableau dashboards, Power BI reporting, and st
 
 ---
 
-## Flagship Project
+## Featured Project (Flagship)
 
 ### Zomato Restaurant Analysis (Revenue & Performance Drivers)
 A deep-dive analysis into restaurant performance patterns across India using Tableau. This project identifies key drivers of revenue concentration, including pricing structure, cuisine distribution, and customer engagement behavior.
 
 🔗 View Project:
-[zomato-restaurant-analysis](https://github.com/magnusonja/data-analytics-portfolio/blob/main/zomato-restaurant-analysis/README.md)
+[zomato-restaurant-analysis](./zomato-restaurant-analysis)
+
+---
 
 ## Project Progression
 
@@ -21,7 +23,7 @@ A deep-dive analysis into restaurant performance patterns across India using Tab
 Analysis of NYC Airbnb listings to identify high-demand neighborhoods and optimal property sizes for short-term rental investment decisions.
 
 🔗 View Project:
-[airbnb-market-analysis](https://github.com/magnusonja/data-analytics-portfolio/blob/main/airbnb-market-analysis/README.md)
+[airbnb-market-analysis](./airbnb-market-analysis)
 
 ---
 
@@ -29,15 +31,14 @@ Analysis of NYC Airbnb listings to identify high-demand neighborhoods and optima
 Power BI dashboard analysis of Shopify apps to evaluate performance drivers such as ratings, engagement, and developer responsiveness.
 
 🔗 View Project:
-[shopify-app-analysis](https://github.com/magnusonja/data-analytics-portfolio/blob/main/shopify-app-analysis/README.md)
+[shopify-analysis](./shopify-analysis)
 
 ---
 
 ### 03. Zomato Restaurant Analysis (Advanced Analytics)
 Advanced Tableau-based revenue analysis identifying structural patterns in restaurant performance and market concentration.
 
-🔗 View Project:
-[zomato-restaurant-analysis](https://github.com/magnusonja/data-analytics-portfolio/blob/main/zomato-restaurant-analysis/README.md)
+> This project represents my most advanced analytical work to date and is highlighted above as the flagship case study.
 
 ---
 
